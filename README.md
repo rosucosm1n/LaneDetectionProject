@@ -1,4 +1,4 @@
-This is a cool project in which i had to create a program that detects the road lanes using the OpenCV library.
+This is a cool project in which I had to create a program that detects the road lanes using the OpenCV library.
 This project was coordinated by a Continental Iasi team who provided us with the necessary resources and documentation needed.
 The program is developed in Python. At first, I received a 30 seconds raw video of a car driving on a road and a set of instructions, the goal was
 to make the program detect the road lanes using a set of image processing filters.
